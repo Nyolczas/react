@@ -1,4 +1,6 @@
 .card-container {
+  width: 200px;
+  margin: 20px;
   display: flex;
   flex-direction: column;
   background-color: #95dada;
@@ -14,4 +16,9 @@
 
 .card-container:hover {
   transform: scale(1.05);
+}
+
+.card-img {
+  max-width: 180px;
+  margin: auto;
 }
