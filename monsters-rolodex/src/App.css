@@ -1,4 +1,5 @@
 .App {
   text-align: center;
   padding: 25px;
+  background: linear-gradient(90deg, rgba(4,47,92,1) 0%, rgba(52,140,172,1) 100%);
 }
